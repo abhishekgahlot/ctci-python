@@ -1,2 +1,3 @@
-# ctci-python
-Cracking the Coding Interview all questions in Python 2
+# Cracking the Coding Interview - python
+## Solutions for "Cracking the Coding Interview v5" in Python 2
+
